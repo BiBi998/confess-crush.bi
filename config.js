@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Gửi Phương <3",
     introTitle: ' HELLO PHƯƠNG CỤC VÀNG CỦA ANH',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
+    Mà sao em cứ đi nhầm đường 
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'Bấm vào đây nhé <3',
